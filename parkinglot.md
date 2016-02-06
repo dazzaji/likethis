@@ -44,4 +44,5 @@
 * Legal 
 * Automation
 * Tools
+* Hackable Projects Gallery
 * Glossary
