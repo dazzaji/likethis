@@ -42,6 +42,7 @@
 ## Other Content
 
 * Legal 
+* Templates and Samples
 * Automation
 * Tools
 * Hackable Projects Gallery
