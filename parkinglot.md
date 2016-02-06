@@ -47,5 +47,6 @@
 * Automation
 * Tools
 * Hackable Projects Gallery
+* Project Teams Gallery
 * Award Winners: The Hackies
 * Glossary
