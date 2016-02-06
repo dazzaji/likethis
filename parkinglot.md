@@ -44,3 +44,4 @@
 * Legal 
 * Automation
 * Tools
+* Glossary
