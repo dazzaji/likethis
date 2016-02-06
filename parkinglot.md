@@ -43,6 +43,7 @@
 
 * Legal 
 * Templates and Samples
+* Case Studies
 * Automation
 * Tools
 * Hackable Projects Gallery
