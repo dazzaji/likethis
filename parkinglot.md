@@ -32,3 +32,15 @@
 * Project Repository
 * Project Site
 * Project Sandbox
+
+## Other Media Types
+
+## Exercices and Projects
+
+## Feedback and Input
+
+## Other Content
+
+* Legal 
+* Automation
+* Tools
