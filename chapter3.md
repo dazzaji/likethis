@@ -10,7 +10,7 @@ External services provided to the Client App, through or with the back-end servi
 
 ## Client Application
 
-This is browser-based or native code created for end-users.
+This is browser-based or native app created for end-users.
 
 ## Data Analytics
 
